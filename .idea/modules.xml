@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/super-mybatis/super-mybatis.iml" filepath="$PROJECT_DIR$/super-mybatis/super-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-mybatis-auto-config/super-mybatis-auto-config.iml" filepath="$PROJECT_DIR$/super-mybatis-auto-config/super-mybatis-auto-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-mybatis-demo/super-mybatis-demo.iml" filepath="$PROJECT_DIR$/super-mybatis-demo/super-mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-spring-mybatis/super-spring-mybatis.iml" filepath="$PROJECT_DIR$/super-spring-mybatis/super-spring-mybatis.iml" />
+    </modules>
+  </component>
+</project>
